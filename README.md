@@ -1,8 +1,3 @@
-# Create a motivational README.md file for the repository
-from textwrap import dedent
-import pypandoc
-
-content = dedent("""
 # 🚀 Pipeline of Thought
 
 Welcome to **Pipeline of Thought** — a structured journey into critical thinking through a Google Data Engineering mindset.
@@ -130,12 +125,4 @@ Welcome to the build phase.
 
 ---
 
-**Start reading. Start structuring. Start engineering your thoughts.**
-""")
 
-file_path = "/mnt/data/pipeline-of-thought-README.md"
-
-# Convert to standalone markdown file
-pypandoc.convert_text(content, 'md', format='md', outputfile=file_path, extra_args=['--standalone'])
-
-file_path
