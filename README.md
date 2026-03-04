@@ -53,7 +53,7 @@ Small improvements in these skills can create **big changes in life**.
 This repository is organized in a **clear learning system**.
 
 ```
-```
+```markdown
 soft-skills-repository/
 │
 ├── 01-chapter/
