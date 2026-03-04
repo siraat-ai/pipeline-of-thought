@@ -70,7 +70,7 @@ soft-skills-repository/
 │
 └── README.md
 ````
-````
+
 
 ### Structure Explanation
 
