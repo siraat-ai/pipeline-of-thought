@@ -1,11 +1,3 @@
-Here is a **GitHub README.md** designed for your **Soft Skills Development Repository**.
-It uses **very simple English**, **motivating tone**, **clear structure**, and **emojis** to make it friendly for all readers. 🌍
-
-You can copy this directly into **README.md** in your repo.
-
----
-
-
 # 🌱 Soft Skills For Real Life
 
 Welcome to this **Soft Skills Learning Repository**.
