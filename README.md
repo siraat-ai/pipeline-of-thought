@@ -5,7 +5,7 @@ You can copy this directly into **README.md** in your repo.
 
 ---
 
-```markdown
+
 # 🌱 Soft Skills For Real Life
 
 Welcome to this **Soft Skills Learning Repository**.
@@ -61,7 +61,7 @@ Small improvements in these skills can create **big changes in life**.
 This repository is organized in a **clear learning system**.
 
 ```
-
+```markdown
 soft-skills-repository/
 │
 ├── 01-chapter/
@@ -77,7 +77,7 @@ soft-skills-repository/
 │ ├── ...
 │
 └── README.md
-
+````
 ````
 
 ### Structure Explanation
@@ -252,17 +252,9 @@ Your future is shaped by the **skills you practice today**.
 ⭐ If this repository helps you, consider **starring the project** and sharing it with others who want to grow.
 
 Together we can build a world with **stronger thinking, better behavior, and wiser people**.
-```
+
 
 ---
 
-If you want, I can also create:
 
-✅ **30 Chapter Folder Naming System**  
-✅ **Automatic File Naming Pattern for 500+ .md files**  
-✅ **GitHub Repo Description + Tags**  
-✅ **Pinned Repo Banner Text**  
-✅ **First 10 chapter titles (very powerful)**  
 
-which will make your **GitHub repository look like a professional learning library**. 🚀
-````
